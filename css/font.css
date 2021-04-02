@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'collegedregular';
+    src: url('../font/colleged-webfont.eot');
+    src: url('../font/colleged-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/colleged-webfont.woff') format('woff'),
+         url('../font/colleged-webfont.ttf') format('truetype'),
+         url('../font/colleged-webfont.svg#collegedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
